@@ -12,7 +12,7 @@ The limbo server: [Click Here](https://github.com/Nan1t/NanoLimbo).
 
 # Velocity:
 
-- Version: 1.14
+- Version: 1.14 stable
 - Player count: [525](http://prntscr.com/103lwy9)
 - Fowarding method: Modern
 - Online mode: false
@@ -20,6 +20,16 @@ The limbo server: [Click Here](https://github.com/Nan1t/NanoLimbo).
 - Velocity Config: https://paste.lucko.me/J5T0vJhliq
 - Spark Sampler: https://spark.lucko.me/#e6hqYyJBfU
 
+Video: https://youtu.be/TpxxtFcIcp8
+
 # BungeeCord:
 
-- Version: 
+- Version: git:BungeeCord-Bootstrap:1.16-R0.5-SNAPSHOT:4f23b49:1548
+- Player count: [525]()
+- Fowarding method: Legacy/Bungee
+- Online mode: false
+- JMV flags: ```java -Xmx512M -Xms512M -jar BungeeCord.jar```
+- BungeeCord Config:
+- Spark Sampler:
+
+Video: 
