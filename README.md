@@ -10,7 +10,7 @@ All bots where fowarded to a limbo server with most packets removed after joinin
 
 The limbo server: [Click Here](https://github.com/Nan1t/NanoLimbo).
 
-# Velcity:
+# Velocity:
 
 - Version: 1.14
 - Player count: [525](http://prntscr.com/103lwy9)
@@ -20,6 +20,6 @@ The limbo server: [Click Here](https://github.com/Nan1t/NanoLimbo).
 - Velocity Config: https://paste.lucko.me/J5T0vJhliq
 - Spark Sampler: https://spark.lucko.me/#e6hqYyJBfU
 
-# Bungee:
+# BungeeCord:
 
 - Version: 
