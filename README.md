@@ -32,14 +32,14 @@ Video: https://youtu.be/TpxxtFcIcp8
 - BungeeCord Config: https://paste.lucko.me/dmWa6G18Wf
 - Spark Sampler: https://spark.lucko.me/#utizEtTF7q
 
-Video: https://youtu.be/TpxxtFcIcp8
+Video: https://youtu.be/TYUxoeKtPuw
 
 # Interesting tests:
 
 nload with 525 players using 
-- Velocity:
+- Velocity: http://prntscr.com/103oqci
 - BungeeCord: http://prntscr.com/103o9hx
 
 htop with 525 players using
-- Velocity:
+- Velocity: http://prntscr.com/103ophn
 - BungeeCord: http://prntscr.com/103ocye
