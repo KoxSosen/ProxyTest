@@ -25,11 +25,22 @@ Video: https://youtu.be/TpxxtFcIcp8
 # BungeeCord:
 
 - Version: git:BungeeCord-Bootstrap:1.16-R0.5-SNAPSHOT:4f23b49:1548
-- Player count: [525]()
+- Player count: [525](http://prntscr.com/103o4x2)
 - Fowarding method: Legacy/Bungee
 - Online mode: false
 - JMV flags: ```java -Xmx512M -Xms512M -jar BungeeCord.jar```
-- BungeeCord Config:
-- Spark Sampler:
+- BungeeCord Config: https://paste.lucko.me/dmWa6G18Wf
+- Spark Sampler: https://spark.lucko.me/#utizEtTF7q
 
-Video: 
+Video: https://youtu.be/TpxxtFcIcp8
+
+# Interesting tests:
+
+nload with 525 players using 
+- Velocity:
+- BungeeCord: http://prntscr.com/103o9hx
+
+htop with 525 players using
+- Velocity:
+- BungeeCord: http://prntscr.com/103ocye
+
