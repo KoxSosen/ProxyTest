@@ -12,7 +12,7 @@ The limbo server: [Click Here](https://github.com/Nan1t/NanoLimbo).
 
 # Velocity:
 
-- Version: 1.14 stable
+- Version: [Velocity 1.1.4](https://velocitypowered.com/downloads)
 - Player count: [525](http://prntscr.com/103lwy9)
 - Fowarding method: Modern
 - Online mode: false
@@ -24,7 +24,7 @@ Video: https://youtu.be/TpxxtFcIcp8
 
 # BungeeCord:
 
-- Version: git:BungeeCord-Bootstrap:1.16-R0.5-SNAPSHOT:4f23b49:1548
+- Version: [git:BungeeCord-Bootstrap:1.16-R0.5-SNAPSHOT:4f23b49:1548](https://ci.md-5.net/job/BungeeCord/)
 - Player count: [525](http://prntscr.com/103o4x2)
 - Fowarding method: Legacy/Bungee
 - Online mode: false
@@ -43,4 +43,3 @@ nload with 525 players using
 htop with 525 players using
 - Velocity:
 - BungeeCord: http://prntscr.com/103ocye
-
